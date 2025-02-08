@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  Fosi Update.cpp
+  Fosi UpdateDlg.cpp
+E:\fosi_stuff\USB\XMOS_FIRMWARE_UPDATE\Fosi Update\Fosi UpdateDlg.cpp(216,33): warning C4267: “=”: 从“size_t”转换到“UCHAR”，可能丢失数据
+E:\fosi_stuff\USB\XMOS_FIRMWARE_UPDATE\Fosi Update\Fosi UpdateDlg.cpp(246,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\fosi_stuff\USB\XMOS_FIRMWARE_UPDATE\Fosi Update\Fosi UpdateDlg.cpp(449,36): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+E:\fosi_stuff\USB\XMOS_FIRMWARE_UPDATE\Fosi Update\Fosi UpdateDlg.cpp(450,36): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+E:\fosi_stuff\USB\XMOS_FIRMWARE_UPDATE\Fosi Update\Fosi UpdateDlg.cpp(451,28): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+E:\fosi_stuff\USB\XMOS_FIRMWARE_UPDATE\Fosi Update\Fosi UpdateDlg.cpp(453,28): warning C4244: “=”: 从“uint16_t”转换到“unsigned char”，可能丢失数据
+E:\fosi_stuff\USB\XMOS_FIRMWARE_UPDATE\Fosi Update\Fosi UpdateDlg.cpp(478,31): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+E:\fosi_stuff\USB\XMOS_FIRMWARE_UPDATE\Fosi Update\Fosi UpdateDlg.cpp(479,19): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+  正在生成代码...
+  Fosi Update.vcxproj -> E:\fosi_stuff\USB\XMOS_FIRMWARE_UPDATE\Fosi Update\x64\Debug\Fosi Update.exe

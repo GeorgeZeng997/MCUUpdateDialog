@@ -3,23 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fosi update", "Fosi update.csproj", "{4D6E378A-E963-4B3A-8754-0F2E445EA8EF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fosi Update", "Fosi Update.vcxproj", "{84808A05-C642-4F39-8D4E-11DD43260873}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Fosi Update Setup", "setupproj\Setup1.vdproj", "{1B4F33D0-4C02-4841-810A-6E137EFF56DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4D6E378A-E963-4B3A-8754-0F2E445EA8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4D6E378A-E963-4B3A-8754-0F2E445EA8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4D6E378A-E963-4B3A-8754-0F2E445EA8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4D6E378A-E963-4B3A-8754-0F2E445EA8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84808A05-C642-4F39-8D4E-11DD43260873}.Debug|x64.ActiveCfg = Debug|x64
+		{84808A05-C642-4F39-8D4E-11DD43260873}.Debug|x64.Build.0 = Debug|x64
+		{84808A05-C642-4F39-8D4E-11DD43260873}.Debug|x86.ActiveCfg = Debug|Win32
+		{84808A05-C642-4F39-8D4E-11DD43260873}.Debug|x86.Build.0 = Debug|Win32
+		{84808A05-C642-4F39-8D4E-11DD43260873}.Release|x64.ActiveCfg = Release|x64
+		{84808A05-C642-4F39-8D4E-11DD43260873}.Release|x64.Build.0 = Release|x64
+		{84808A05-C642-4F39-8D4E-11DD43260873}.Release|x86.ActiveCfg = Release|Win32
+		{84808A05-C642-4F39-8D4E-11DD43260873}.Release|x86.Build.0 = Release|Win32
+		{1B4F33D0-4C02-4841-810A-6E137EFF56DB}.Debug|x64.ActiveCfg = Debug
+		{1B4F33D0-4C02-4841-810A-6E137EFF56DB}.Debug|x86.ActiveCfg = Debug
+		{1B4F33D0-4C02-4841-810A-6E137EFF56DB}.Release|x64.ActiveCfg = Release
+		{1B4F33D0-4C02-4841-810A-6E137EFF56DB}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {70E1018E-30DD-4D39-9B4A-09564F72FECE}
+		SolutionGuid = {49ABAC96-5765-43D5-B8DB-B0BC2874268C}
 	EndGlobalSection
 EndGlobal
